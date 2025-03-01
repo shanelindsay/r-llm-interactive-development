@@ -1,0 +1,97 @@
+# R specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Rprofile
+.Renviron
+
+# RStudio specific files
+*.Rproj.user
+*.Rproj
+
+# R package build files
+*.tar.gz
+*.Rcheck/
+.Rbuildignore
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+*_files/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+*.html
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# R Environment Variables
+.Renviron
+.Rprofile
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# PowerShell specific
+*.ps1.log
+
+# Uncomment if you don't want to track output directories
+# outputs/data/
+# outputs/figures/
+# outputs/tables/
+# outputs/models/
+
+# R server files
+r_comm/r_process_pid.txt
+r_comm/heartbeat.txt
+r_comm/r_process_state.txt
+r_comm/*.rds
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.temp
+*~
+
+# HTML and PDF outputs from RMarkdown
+# Comment these if you want to include these in the repository
+# *.html
+# *.pdf
+
+# Directories potentially created in the project
+/doc/
+/Meta/
